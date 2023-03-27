@@ -1,0 +1,9 @@
+loguru
+lorem
+nvidia-ml-py
+psutil
+pydantic
+requests
+sseclient-py
+tokenizers
+websocket-client
